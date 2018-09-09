@@ -3,8 +3,8 @@ from twilio.rest import Client
 
 
 # Your Account Sid and Auth Token from twilio.com/console
-account_sid = 'ACe8f8094a119c72caa4a6d66504a70a74'
-auth_token = '217bc76245848a5a009143500b784cef'
+account_sid = 'ACe8f8094a119c72caa4a6d665*********'
+auth_token = '217bc76245848a5a***************'
 client = Client(account_sid, auth_token)
 
 message = client.messages.create(
