@@ -1,4 +1,4 @@
-# Text-to-find-route
+# Text Your Way
 text-to-find-routes is a simple app written in Python and using Twillio and Google Maps API. 
 
 Mohammad (https://github.com/zarifi) came up with this simple, yet unique idea.
